@@ -1,6 +1,0 @@
-#!/bin/sh
-
-wclean
-rm -rf lnInclude
-wmakeLnInclude .
-wmake libso
